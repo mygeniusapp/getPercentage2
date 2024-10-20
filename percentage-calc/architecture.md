@@ -1,3 +1,11 @@
+# Code Files Tree
+getPercentage/
+├── src/
+│   ├── main.java
+│   ├── FXMLDocumentController.java
+│   └── FXMLDocument.fxml
+├── README.md
+└── architecture.md
 # System Architecture of getPercentage
 
 ## Overview
