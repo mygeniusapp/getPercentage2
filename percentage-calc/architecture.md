@@ -1,6 +1,7 @@
 
 # System Architecture of getPercentage
 ## Code Files Tree
+```
 getPercentage/
 ├── src/
 │   ├── main.java
@@ -8,6 +9,7 @@ getPercentage/
 │   └── FXMLDocument.fxml
 ├── README.md
 └── architecture.md
+```
 ## Overview
 The getPercentage application is structured around JavaFX with a Model-View-Controller (MVC) design pattern. It consists of three main components:
 
